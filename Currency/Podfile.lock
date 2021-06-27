@@ -1,0 +1,73 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya-ObjectMapper (2.9):
+    - Moya-ObjectMapper/Core (= 2.9)
+  - Moya-ObjectMapper/Core (2.9):
+    - Moya (~> 14.0.0-beta.6)
+    - ObjectMapper
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (4.2.0)
+  - PanModal (1.2.7)
+  - PromiseKit (6.15.3):
+    - PromiseKit/CorePromise (= 6.15.3)
+    - PromiseKit/Foundation (= 6.15.3)
+    - PromiseKit/UIKit (= 6.15.3)
+  - PromiseKit/CorePromise (6.15.3)
+  - PromiseKit/Foundation (6.15.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.15.3):
+    - PromiseKit/CorePromise
+  - Result (5.0.0)
+  - SkeletonView (1.17.2)
+  - SwiftMessages (9.0.2):
+    - SwiftMessages/App (= 9.0.2)
+  - SwiftMessages/App (9.0.2)
+  - SwiftPullToRefresh (3.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Moya
+  - Moya-ObjectMapper
+  - ObjectMapper
+  - PanModal
+  - PromiseKit
+  - Result
+  - SkeletonView
+  - SwiftMessages
+  - SwiftPullToRefresh
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - Moya-ObjectMapper
+    - ObjectMapper
+    - PanModal
+    - PromiseKit
+    - Result
+    - SkeletonView
+    - SwiftMessages
+    - SwiftPullToRefresh
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Moya-ObjectMapper: 967a99d9ea3aa9c93ddbe112aeca3667f53bfe93
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  PromiseKit: 3b2b6995e51a954c46dbc550ce3da44fbfb563c5
+  Result: ed341d2f236af425b803e690e9bd8fd0a0cb7c5a
+  SkeletonView: 7aba21d10df8d0530189379ebe02e02a192d8132
+  SwiftMessages: 77b847d1405f99046ffbd0d856bc7d73e6892686
+  SwiftPullToRefresh: f61d67439c5b8d66420fe57193cab8c279398e7a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: a51db4c6932086440b4d051e8149c30c72ee1450
+
+COCOAPODS: 1.10.1

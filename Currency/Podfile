@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Currency' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Currency
+
+  # UI
+  pod 'SwiftPullToRefresh'
+  pod 'SkeletonView'
+  pod 'SwiftMessages’
+  pod 'PanModal'
+
+  # Architecture
+  pod 'PromiseKit'
+  
+  # Network
+  pod 'Alamofire'
+  pod 'Moya'
+  pod 'Result'
+  pod 'ObjectMapper'
+  pod 'SwiftyJSON'
+  pod 'Moya-ObjectMapper'
+
+end
