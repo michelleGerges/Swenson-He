@@ -115,4 +115,4 @@ iterative(limit: 9)
 > 
 > Apply coordinator for naviagtion logic, and `Dependency Injection`.
 
-and finally, I have beend asked in the task to use MVVM in my solution.
+and finally, I have been asked in the task to use MVVM in my solution.
