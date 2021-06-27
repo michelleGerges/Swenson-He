@@ -109,10 +109,10 @@ iterative(limit: 9)
 
 ## IV. Which architecture would you use for the required task below? Why?
 
-> 'MVVM', I used to work with MVC, MVP, MVVM and VIPER, we all know that *MVC* leads to massive-view-controller issue. *MVP* is fine for me, but *the Presenter* has a refrence to the View (even it is a protocol refrence). so *MVVM* is the best for most business models, *view-model* is reusable and does not have any refrence to the View. the view is not one of its dependencies.
+> `MVVM`, I used to work with MVC, MVP, MVVM and VIPER, we all know that *MVC* leads to massive-view-controller issue. *MVP* is fine for me, but *the Presenter* has a refrence to the View (even it is a protocol refrence). so *MVVM* is the best for most business models, *view-model* is reusable and does not have any refrence to the View. the view is not one of its dependencies.
 > 
-> Adding 'promises' to MVVM makes it reactive.
+> Adding `promises` to MVVM makes it reactive.
 > 
-> Apply coordinator for naviagtion logic, and 'Dependency Injection'.
+> Apply coordinator for naviagtion logic, and `Dependency Injection`.
 
-and finally, you asked me in the task to use MVVM in my solution.
+and finally, I have beend asked in the task to use MVVM in my solution.
