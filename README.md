@@ -116,3 +116,10 @@ iterative(limit: 9)
 > Apply coordinator for naviagtion logic, and `Dependency Injection`.
 
 and finally, I have been asked in the task to use MVVM in my solution.
+
+
+## V. Create a currency converter by utilizing data from the fixer.io API.
+
+1. download Currency folder
+2. run `pod install`
+3. no flags upported, and only **EUR** is working as it is not free api
